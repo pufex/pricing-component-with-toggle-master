@@ -90,6 +90,7 @@ header h1{
   max-width: 1440px;
   margin: 0 auto;
   margin-bottom: 1rem;
+  padding: 0 1rem;
 }
 
 .container-item{
